@@ -20,7 +20,7 @@ Power Query and PowerBI
 
 ### Data Cleaning/Preparation
 
-The data cleaning was done in Power Query in Power BI. The data types was converted to the appropriate type, and date column was formatted correctly using the (dd mmm yy) format.
+The data cleaning was done with Power Query in Power BI. The data types was converted to the appropriate type, and date column was formatted correctly using the (dd mmm yy) format.
 
 
 ### Visualization
